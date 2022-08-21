@@ -1,0 +1,2 @@
+# BeamDeflectionCalculator
+ Kiriş Deformasyon Hesaplama
